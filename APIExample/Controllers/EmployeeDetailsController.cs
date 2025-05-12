@@ -97,6 +97,7 @@ namespace APIExample.Controllers
                 }
             }
             return Ok(employees);
+            //return result
         }
 
         // Post employee
